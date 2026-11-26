@@ -1,0 +1,102 @@
+{
+  "General_UiName": {
+    "Source": "Pathing",
+    "French": "Pathing"
+  },
+  "Window_MainSettingsTab": {
+    "Source": "Marker Options",
+    "French": "Options des marqueurs"
+  },
+  "Window_MapSettingsTab": {
+    "Source": "Map Options",
+    "French": "Options des cartes"
+  },
+  "Setting_PackMaxTrailAnimationSpeed": {
+    "Source": "Max Trail Animation Speed",
+    "French": "Vitesse maximale d’animation des parcours"
+  },
+  "Setting_PackMaxOpacityOverride": {
+    "Source": "Max Opacity Override",
+    "French": "Opacité maximale des marqueurs"
+  },
+  "Setting_PackMaxViewDistance": {
+    "Source": "Max View Distance",
+    "French": "Distance maximale d’affichage"
+  },
+  "Setting_PackFadeTrailsAroundCharacter": {
+    "Source": "Fade Trails Around Character",
+    "French": "Atténuer les parcours autour du personnage"
+  },
+  "Setting_PackFadeMarkersBetweenCharacterAndCamera": {
+    "Source": "Fade Markers Between Character and Camera",
+    "French": "Atténuer les marqueurs entre le personnage et la caméra"
+  },
+  "Setting_PackAllowMarkersToAutomaticallyHide": {
+    "Source": "Allow Markers to Automatically Hide",
+    "French": "Autoriser le masquage automatique des marqueurs"
+  },
+  "Setting_PackMarkerConsentToClipboard": {
+    "Source": "Allow Markers to Set Clipboard",
+    "French": "Autoriser la copie depuis les marqueurs"
+  },
+  "Setting_PackAllowMarkersToAnimate": {
+    "Source": "Allow Markers to Animate",
+    "French": "Autoriser l’animation des marqueurs"
+  },
+  "Setting_PackShowCategoriesFromAllMaps": {
+    "Source": "Show Categories From All Maps",
+    "French": "Afficher les catégories de toutes les cartes"
+  },
+  "Setting_MapShowMarkersOnFullscreen": {
+    "Source": "Show Markers on Fullscreen Map",
+    "French": "Marqueurs sur la carte du monde"
+  },
+  "Setting_MapShowMarkersOnCompass": {
+    "Source": "Show Markers on the Minimap",
+    "French": "Marqueurs sur la mini-carte"
+  },
+  "Setting_MapShowAboveBelowIndicators": {
+    "Source": "Show Above/Below Indicators",
+    "French": "Indiquer les différences de hauteur"
+  },
+  "Window_KeyBindSettingsTab": {
+    "Source": "Key Bindings",
+    "French": "Raccourcis clavier"
+  },
+  "Setting_PackFadePathablesDuringCombat": {
+    "Source": "Fade Markers and Trails While in Combat",
+    "French": "Masquer les marqueurs et parcours en combat"
+  },
+  "Window_DownloadMarkerPacks": {
+    "Source": "Download Marker Packs",
+    "French": "Télécharger des packs"
+  },
+  "Repo_Download": {
+    "Source": "Download",
+    "French": "Télécharger"
+  },
+  "Repo_Info": {
+    "Source": "Info",
+    "French": "Informations"
+  },
+  "Repo_Categories": {
+    "Source": "Categories",
+    "French": "Catégories"
+  },
+  "Setting_MapShowTrailsOnCompass": {
+    "Source": "Show Trails on the Minimap",
+    "French": "Parcours sur la mini-carte"
+  },
+  "Setting_MapShowTrailsOnFullscreen": {
+    "Source": "Show Trails on Fullscreen Map",
+    "French": "Parcours sur la carte du monde"
+  },
+  "Info_HiddenCategories": {
+    "Source": "Categories hidden because they are for markers on a different map.\n\nClick to view them or you can disable this filter by toggling:\nPathing Module Settings > Marker Options > {0}.",
+    "French": "Des catégories sont masquées car leurs marqueurs appartiennent à une autre carte.\n\nCliquez pour les afficher ou modifiez le réglage dans\nParamètres de Pathing > Options des marqueurs > {0}."
+  },
+  "Setting_PackMarkerConsentToClipboardDescription": {
+    "Source": "Some markers support copying text to your clipboard (such as waypoints or build templates).\n\nAlways (Default) - Markers can always update your clipboard.  This can occur on interact ({0}) or automatically when you walk in range of the marker.\n\nOnly When Interacted With - Markers can update your clipboard ONLY when interacted ({0}) with directly.  Markers configured as automatic will require interaction.\n\nNever - Markers can never update your clipboard.",
+    "French": "Certains marqueurs peuvent copier du texte dans le presse-papiers, par exemple un point de passage ou un modèle d’archétype.\n\nToujours - La copie peut se produire lors d’une interaction ({0}) ou à l’approche du marqueur.\n\nSur interaction uniquement - La copie exige une interaction directe ({0}), même pour un marqueur configuré en copie automatique.\n\nJamais - Les marqueurs ne peuvent pas modifier le presse-papiers."
+  }
+}

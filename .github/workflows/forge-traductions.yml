@@ -1,0 +1,38 @@
+name: Traductions quotidiennes de la Forge
+on:
+  schedule:
+    - cron: '15 5 * * *'
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: Publier les traductions contrôlées
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: forge-traductions
+  cancel-in-progress: false
+jobs:
+  prepare:
+    runs-on: windows-2022
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Installer les outils gratuits de préparation
+        run: python -m pip install ctranslate2==4.9.0 sentencepiece==0.2.3
+      - name: Vérifier les règles de traduction
+        run: python tools/forge/test_traductions.py
+      - name: Préparer les catalogues et adaptations
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PUBLISH: ${{ github.event_name == 'schedule' || inputs.publish }}
+        shell: pwsh
+        run: |
+          $arguments = @('tools/forge/actualiser.py')
+          if ($env:PUBLISH -eq 'true') { $arguments += '--publish' }
+          python @arguments
+          if ($LASTEXITCODE -ne 0) { throw 'Préparation des traductions impossible.' }

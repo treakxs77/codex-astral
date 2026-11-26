@@ -1,0 +1,233 @@
+{
+  "Descriptions": {
+    "uL-Vias.taco": {
+      "Source": "uL Vias focuses on clear, efficient routes for speed leveling, quality‑of‑life additions, and high‑value farms. It’s actively maintained and will keep expanding with new paths, farms, and quality‑of‑life tweaks that the community find fun or genuinely useful.",
+      "French": "uL Vias propose des itinéraires clairs et efficaces pour progresser rapidement en niveaux, améliorer le confort de jeu et suivre des circuits de récolte rentables. Le pack est régulièrement entretenu et s’enrichit de parcours et d’améliorations utiles à la communauté."
+    },
+    "fast_TacO_pack.taco": {
+      "Source": "A set of markers and trails for some of the most profitable solo-farming gathering routes across a wide range of maps.\r\nClick the Info button for current benchmarks and more details!",
+      "French": "Des marqueurs et parcours pour certains des circuits de récolte en solo les plus rentables, sur de nombreuses cartes.\nCliquez sur Informations pour consulter les mesures de rentabilité et les détails à jour."
+    },
+    "FvD_Dungeon_Guide.taco": {
+      "Source": "Trails for all dungeon explorable and story paths (excluding Arah Story mode). Includes: Path info, mechanics, and some skips.",
+      "French": "Parcours pour tous les chemins d’exploration et modes Histoire des donjons, sauf le mode Histoire d’Arah. Comprend des informations sur les chemins, les mécaniques et certains raccourcis."
+    },
+    "moar.taco": {
+      "Source": "The MOAR Marker Pack aims to help players run efficient open world metas and Hero Point trains.",
+      "French": "Le pack MOAR aide les joueurs à organiser efficacement les méta-événements en monde ouvert et les parcours de points de héros."
+    },
+    "RACE_BeetleTracks.taco": {
+      "Source": "A selection of tracks created and curated by the members of [RACE].\n\n[RACE] Discord Link: https://discord.gg/wkJbRwA",
+      "French": "Une sélection de circuits créés et sélectionnés par les membres de [RACE].\n\nDiscord de [RACE] : https://discord.gg/wkJbRwA"
+    },
+    "abaddon.taco": {
+      "Source": "EoD and LW1 set of markers to make achievement chasers' life easier, also has some QoL markers for EoD",
+      "French": "Des marqueurs pour End of Dragons et la saison 1 du Monde vivant, afin de faciliter la chasse aux succès. Comprend aussi des marqueurs pratiques pour End of Dragons."
+    },
+    "Aixxel_HP.zip": {
+      "Source": "This pack contains guides for Aixxel's Chill and Fast HP trains. Includes Heart of Thorns, Path of Fire, End of Dragon's and Vision's of Eternity. Chill routes grab all the waypoints as well while fast focuses on HP and only the waypoints needed for the run. Also shows Comm port enter and exit locations.",
+      "French": "Guides des parcours de points de héros d’Aixxel, en version tranquille ou rapide, pour Heart of Thorns, Path of Fire, End of Dragons et Visions of Eternity. Les parcours tranquilles passent par tous les points de passage ; les rapides privilégient les points de héros et les seuls points de passage nécessaires. Les entrées et sorties des portails du commandant sont également indiquées."
+    },
+    "apo_markers.taco": {
+      "Source": "This pack aims to provide guidance for the Kela Raid Encounter. It displays the positions of the Executor of Waves spawns (numbered), the area of in which waves trigger depending on Kelas position in the arena, and a spot from which you can comfortably reach all Executor of Waves spawns with 1500 range.",
+      "French": "Guide du combat de raid contre Kela : positions numérotées d’apparition des exécuteurs des vagues, zones de déclenchement des vagues selon la position de Kela dans l’arène et emplacement permettant d’atteindre toutes les apparitions avec une portée de 1 500."
+    },
+    "Aurizara_HP.taco": {
+      "Source": "Detailed paths and markers for portals, hazards and instructions for running on and hosting HP Trains in all three expansions.",
+      "French": "Parcours détaillés et marqueurs pour les portails, les dangers et les consignes, afin de suivre ou de diriger des parcours de points de héros dans Heart of Thorns, Path of Fire et End of Dragons."
+    },
+    "AutomaticArrows.taco": {
+      "Source": "Struggling to find markers that have no trail? Tired of having to backtrack after a marker you just missed?\nLook no further! Automatic Arrows is a helper script that can work with any other marker pack. It automatically generates arrows that point to the markers closest to you. Requires Lua Scripts to be turned on in Pathing settings.",
+      "French": "Vous avez du mal à trouver les marqueurs sans parcours, ou vous devez revenir sur vos pas après en avoir manqué un ? Automatic Arrows fonctionne avec les autres packs et génère automatiquement des flèches vers les marqueurs les plus proches. Nécessite d’activer les scripts Lua dans les paramètres de Pathing."
+    },
+    "ConvergenceCorpTrails.taco": {
+      "Source": "A Marker/Pathing pack for Convergences!\nIncludes pathing for private Convergences (public soon) and some JW hearts.\nhttps://convergencecorp.net/",
+      "French": "Un pack de marqueurs et de parcours pour les convergences !\nComprend les convergences privées, les publiques étant annoncées pour plus tard, ainsi que certains cœurs de Janthir Wilds.\nhttps://convergencecorp.net/"
+    },
+    "Czokalapik-s-Guides-for-GW2Taco.taco": {
+      "Source": "This marker pack is designed for Commanders leading HP trains and/or solo players (with small requirements). Very few challenges require Springer, original routes requiring only HoT masteries and/or gliding are not included for some Hero Challenges (for example Glided River).",
+      "French": "Pack conçu pour les commandants qui dirigent des parcours de points de héros et pour les joueurs en solo, avec quelques prérequis. Très peu de défis demandent le frappesol. Pour certains défis de héros, les itinéraires d’origine ne demandant que les maîtrises de Heart of Thorns ou le deltaplane ne sont pas inclus, par exemple Glided River."
+    },
+    "kreskysmarkers.zip": {
+      "Source": "Currently only contains a Hero Point train for Heart of Thorns (Verdant Brink, Auric Basin and Tangled Depths).\r\nThe path is designed with the idea that anyone could follow as long as they have the Gliding Basics mastery (no other masteries needed aside from Itzel Poison Lore for 1 HP in Tangled Depths).",
+      "French": "Contient actuellement un parcours de points de héros pour Heart of Thorns : Orée d’émeraude, Bassin aurique et Profondeurs verdoyantes.\n\nIl est conçu pour être accessible avec la maîtrise de base du deltaplane. Aucune autre maîtrise n’est nécessaire, à l’exception de la connaissance des poisons itzels pour un point de héros des Profondeurs verdoyantes."
+    },
+    "TearTokenPack.taco": {
+      "Source": "A collection of trails for various collections (formerly Tear Token Pack).",
+      "French": "Des parcours pour plusieurs collections, anciennement regroupés sous le nom Tear Token Pack."
+    },
+    "haskha_markers.zip": {
+      "Source": "A collection of markers for raids and strikes.",
+      "French": "Une collection de marqueurs pour les raids et les missions d’attaque."
+    },
+    "HeartZones.taco": {
+      "Source": "Zone outlines shown on your map for each of the hearts in-game.",
+      "French": "Affiche sur la carte les limites des zones correspondant à chaque cœur du jeu."
+    },
+    "hero.blish.pack.zip": {
+      "Source": "This pack provides skip guides, mechanical optimization, encounter strategy support, and general QoL markers for Fractals of the Mists, Raids, Strikes, and Dungeons, in addition to limited build support for SFTA. Individuals who are significantly experienced in end-game PvE content will see little to no use from this pack, and the same goes for brand new players. But if you're someone who doesn't fit in either extreme, then this pack will suit you well.",
+      "French": "Ce pack propose des guides de raccourcis, des conseils pour optimiser les mécaniques et les stratégies de combat, ainsi que des marqueurs pratiques pour les Fractales des Brumes, raids, missions d’attaque et donjons. Il fournit aussi une aide limitée aux configurations SFTA. Il sera peu utile aux joueurs très expérimentés en JcE de haut niveau comme aux débutants complets ; il s’adresse surtout aux joueurs situés entre ces deux niveaux."
+    },
+    "HeroineDark_SAB_Guides.taco": {
+      "Source": "Random guides to help players and enhance experiences with the game.",
+      "French": "Différents guides pour aider les joueurs et enrichir leur expérience de jeu."
+    },
+    "JapyxTrails.taco": {
+      "Source": "This Marker Pack is designed for an easy Home Instance gathering with trails, markers and bandit chest locations.",
+      "French": "Facilite la récolte dans l’instance personnelle grâce à des parcours, des marqueurs et aux emplacements des coffres de bandit."
+    },
+    "KevPack.taco": {
+      "Source": "Marker pack made for farming Magic Mirrors on Castora. Includes key reminders and instructions.",
+      "French": "Un pack pour récolter les miroirs magiques de Castora, avec des rappels pour les clés et des consignes."
+    },
+    "LadyElyssaAP.taco": {
+      "Source": "This pack focuses on Achievements & Collections for the Living World and all Expansions.",
+      "French": "Ce pack se concentre sur les succès et collections du Monde vivant et de toutes les extensions."
+    },
+    "LadyElyssa.taco": {
+      "Source": "A comprehensive marker pack covering Chest Runs, Festivals, Gathering,  Guild Missions, Hero Points (HoT, PoF, EoD), Jumping Puzzles, Key Farming, Map Completion, World Bosses, Living World and more...",
+      "French": "Un pack complet couvrant les circuits de coffres, festivals, récoltes, missions de guilde, points de héros de Heart of Thorns, Path of Fire et End of Dragons, puzzles de saut, récolte de clés, exploration de cartes, boss mondiaux, Monde vivant et bien plus encore."
+    },
+    "Linus_VoE_Chest_Farm.taco": {
+      "Source": "Paths and Makers for farming Magic Mirrors and Chests from VoE maps.",
+      "French": "Parcours et marqueurs pour récolter les miroirs magiques et les coffres sur les cartes de Visions of Eternity."
+    },
+    "TehsTrailsMKL.taco": {
+      "Source": "This marker pack includes everything you need to know in order to learn how to command a Mad King's Labyrinth farm -- including trails, informational markers and even generic copy-paste messages for new commanders.",
+      "French": "Tout le nécessaire pour apprendre à diriger un groupe dans le Labyrinthe du Roi Dément : parcours, marqueurs explicatifs et même des messages génériques à copier-coller pour les nouveaux commandants."
+    },
+    "MesmerFractalSkips.taco": {
+      "Source": "Trails and markers for most of the practical Fractal skips done with Mesmer (some might require prior knowledge).",
+      "French": "Parcours et marqueurs pour la plupart des raccourcis utiles en fractales avec un envoûteur. Certains demandent des connaissances préalables."
+    },
+    "metal_marker_myriad.taco": {
+      "Source": "A collection of random marker packs for various collections, achievements, whatever! It's like a box of chocolates!\r\n\r\nhttps://discord.gg/FP8dQj6KBj",
+      "French": "Un assortiment de marqueurs pour toutes sortes de collections et de succès : une véritable boîte de chocolats !\n\nhttps://discord.gg/FP8dQj6KBj"
+    },
+    "MoW.taco": {
+      "Source": "Providing quest-like, scenic and at times challenging map tours, to get familiar with the zones and their (Meta-)events. Come learn about the zones or try a permadeath challenge while following the zones tours, alone or with a group of friends :D ",
+      "French": "Des visites de cartes sous forme de quêtes, avec de beaux paysages et parfois des défis, pour découvrir les zones et leurs événements ou méta-événements. Explorez seul ou entre amis, ou essayez un défi sans mourir en suivant les parcours !"
+    },
+    "Nekres.Markers.taco": {
+      "Source": "A collection of markers which at the time of creation were not covered by other packs.\nCurrently includes:\n- Treasure Mushroom hiding spots\n- A Carved Path (Grothmar Valley).",
+      "French": "Des marqueurs pour des activités qui n’étaient pas couvertes par les autres packs lors de leur création.\nComprend actuellement :\n- les cachettes des champignons au trésor ;\n- A Carved Path, dans la Vallée de Grothmar."
+    },
+    "VoEMirrors.taco": {
+      "Source": "Daily large and medium obscured chests paths.  SWS and SW zones utilise HP for needed keys. EG zone uses mirror resets and reruns. Follow description plaques at the end of each path if in doubt.",
+      "French": "Parcours quotidiens des grands et moyens coffres obscurs. Les zones SWS et SW utilisent les points de héros pour obtenir les clés nécessaires ; la zone EG utilise les réinitialisations des miroirs et des passages répétés. En cas de doute, consultez les panneaux explicatifs à la fin de chaque parcours."
+    },
+    "Nexploration.taco": {
+      "Source": "This marker and trail pack is for all y'all looking to map-comp all of Cantha and start building out those sweet new legendaries. I've also created a few extra trails as well, adding in mastery routes, JP's and some achievement routes. I may or may not add more routes in the future, just depends on personal time.",
+      "French": "Des marqueurs et parcours pour explorer entièrement Cantha et commencer à fabriquer les nouvelles armes légendaires. Comprend aussi des parcours de maîtrises, de puzzles de saut et de certains succès. L’ajout de nouveaux parcours dépend du temps libre du créateur."
+    },
+    "onlyfish.taco": {
+      "Source": "NOW INCLUDED IN MMM. IF YOU HAVE THAT PACK, YOU CAN DELETE THIS PACK.  A collection of known Fishing Hole spawn locations across all available maps, categorized by type! Never sail aimlessly again!\n\nhttps://discord.gg/FP8dQj6KBj",
+      "French": "DÉSORMAIS INCLUS DANS MMM : si vous possédez déjà ce pack, vous pouvez supprimer Only Fish. Des emplacements connus de zones de pêche sur toutes les cartes disponibles, classés par type. Fini les voyages en bateau au hasard !\n\nhttps://discord.gg/FP8dQj6KBj"
+    },
+    "PEAK.zip": {
+      "Source": "The PEAK marker pack for Infallible",
+      "French": "Le pack de marqueurs PEAK pour Infallible."
+    },
+    "Pewpews_Power_Paths.taco": {
+      "Source": "Official open world Roller Beetle Racing paths designed to help you get an easy gold medal in each race following the exact racing path of \"Masked Roller P\" (Currently only primary Roller Beetle races, as well as a few difficult seasonal races. More to come in the future along with speed updates).\r\n\r\n[TINY] discord server link: https://discord.gg/tinyarmy & website: https://tinyarmy.org/",
+      "French": "Parcours des courses officielles de scaraboule en monde ouvert, suivant la trajectoire de « Masked Roller P » pour vous aider à décrocher l’or. Comprend les principales courses de scaraboule et quelques courses saisonnières difficiles. D’autres parcours et améliorations de vitesse sont prévus.\n\nDiscord de [TINY] : https://discord.gg/tinyarmy\nSite : https://tinyarmy.org/"
+    },
+    "reactif.en.taco": {
+      "Source": "(English Version) Follow the trails to complete the map explorations (as well as masteries).\\n\\nThe trails are adapted to be able to be followed by having not all the masteries or the mounts. These are used only from the maps where the player can get them.",
+      "French": "Version anglaise du pack. Suivez les parcours pour explorer les cartes et obtenir les maîtrises.\n\nLes parcours sont adaptés aux joueurs qui ne possèdent pas encore toutes les maîtrises ni toutes les montures. Elles ne sont utilisées qu’à partir des cartes où il est possible de les obtenir."
+    },
+    "reactif.fr.taco": {
+      "Source": "(French Version) Follow the trails to complete the map explorations (as well as masteries).\\n\\nThe trails are adapted to be able to be followed by having not all the masteries or the mounts. These are used only from the maps where the player can get them.",
+      "French": "Version française du pack. Suivez les parcours pour explorer les cartes et obtenir les maîtrises.\n\nLes parcours sont adaptés aux joueurs qui ne possèdent pas encore toutes les maîtrises ni toutes les montures. Elles ne sont utilisées qu’à partir des cartes où il est possible de les obtenir."
+    },
+    "RedicheWvwPack.taco": {
+      "Source": "Level up your World vs. World skills with the ultimate World vs. World Marker Pack!\r\n\r\nDiscord: https://gw2.link/discord\r\nGithub: https://github.com/rediche/rediche-wvw-pack",
+      "French": "Améliorez vos compétences en Monde contre Monde avec ce pack de marqueurs dédié au McM !\n\nDiscord : https://gw2.link/discord\nGitHub : https://github.com/rediche/rediche-wvw-pack"
+    },
+    "shinystrails.taco": {
+      "Source": "Routes and markers for farming Magic Mirrors from VoE, and some extras/more to come.",
+      "French": "Parcours et marqueurs pour récolter les miroirs magiques de Visions of Eternity, avec quelques compléments et d’autres ajouts prévus."
+    },
+    "TehsTrails.taco": {
+      "Source": "A pack tailored for speedrunning map completion. It utilizes all mounts, waypoints, and a multitude of markers to help you complete maps as fast as possible. The current map comp world record of 6h48m uses this pack! Includes trails for Core Tyria, EoD and SotO, with HoT and PoF in progress.",
+      "French": "Un pack conçu pour explorer les cartes le plus rapidement possible, avec toutes les montures, les points de passage et de nombreux marqueurs. Selon sa présentation, il est utilisé pour le record d’exploration de 6 h 48. Comprend la Tyrie centrale, End of Dragons et Secrets of the Obscure ; Heart of Thorns et Path of Fire sont annoncés comme en cours de préparation."
+    },
+    "TehsTrails-HeroPoints.taco": {
+      "Source": "This pack contains trails for speed-completing Hero Points either solo or in small groups. It is aimed at veteran players who have access to most masteries and want to quickly grab hero points for their new alt. Requires all mounts, prototype position rewinder, and jade waypoint.",
+      "French": "Parcours pour obtenir rapidement les points de héros, seul ou en petit groupe. Destiné aux joueurs expérimentés qui possèdent la plupart des maîtrises et souhaitent équiper rapidement un personnage secondaire. Nécessite toutes les montures, le prototype de rembobineur de position et le point de passage de jade."
+    },
+    "tw_ALL_IN_ONE.taco": {
+      "Source": "Jack-of-all-trades with markers and trails for most content.",
+      "French": "Un pack polyvalent, avec des marqueurs et parcours pour la plupart des activités du jeu."
+    },
+    "DeroirsTryhardMarkers.zip": {
+      "Source": "The Tryhard Marker Pack",
+      "French": "Le pack de marqueurs Tryhard."
+    },
+    "TripleTroubleMarkers.taco": {
+      "Source": "Markers for Triple Trouble. Escort paths, Egg and Husk Spawns, Husk landing spots, Vet Wurm spawns, and head specific placements. Whether you are commanding, condi or zerg, this pack can help you with position and locations to achievements for all things Triple Trouble related.",
+      "French": "Marqueurs pour la Triple terreur : parcours d’escorte, apparitions des œufs et des enveloppes, points de chute des enveloppes, apparitions des guivres vétérans et positions propres à chaque tête. Que vous dirigiez le groupe, jouiez les altérations ou suiviez l’escouade, ce pack aide à se positionner et à trouver les emplacements des succès liés à la Triple terreur."
+    },
+    "TwistedCastle.taco": {
+      "Source": "Markers for Twisted Castle (Raid Wing 3). Features: Meta pathing, (Slower) Intended Pathing, Buttons, and Gate Portals",
+      "French": "Marqueurs pour le Château corrompu, dans la troisième aile de raid : itinéraire optimisé, parcours prévu par le jeu mais plus lent, boutons et portails."
+    },
+    "DRFT_Main.taco": {
+      "Source": "This is Tyria Drift's [DRFT] main marker pack that compiles many [DRFT] racetracks made by [DRFT] members for GW2 players to try out. \r\n\r\n[DRFT] Discord server link: https://discord.gg/6gE5GYV",
+      "French": "Le pack principal de Tyria Drift [DRFT] rassemble de nombreux circuits créés par les membres de la guilde, pour les joueurs de Guild Wars 2.\n\nDiscord de [DRFT] : https://discord.gg/6gE5GYV"
+    },
+    "DRFT_GP.taco": {
+      "Source": "This GW2 TacO file compiles Tyria Drift's [DRFT] past Grand Prix events in a boundary trail format for GW2 players to experience the racetracks chosen for [DRFT]'s Grand Prix.\n\n[DRFT] discord server link: https://discord.gg/6gE5GYV",
+      "French": "Les anciens Grands Prix de Tyria Drift [DRFT], avec des parcours indiquant les limites des circuits pour permettre aux joueurs de les découvrir.\n\nDiscord de [DRFT] : https://discord.gg/6gE5GYV"
+    },
+    "VoE_Mirrors_and_oChests.taco": {
+      "Source": "This marker pack has the locations of magic mirrors and obscure chests.",
+      "French": "Les emplacements des miroirs magiques et des coffres obscurs."
+    },
+    "Zippy.taco": {
+      "Source": "Light weight End of Dragons zipline paths with no extra fluff.\r\n\r\n[TINY] discord server link: https://discord.gg/tinyarmy & website: https://tinyarmy.org/",
+      "French": "Des parcours légers pour les tyroliennes d’End of Dragons, sans éléments superflus.\n\nDiscord de [TINY] : https://discord.gg/tinyarmy\nSite : https://tinyarmy.org/"
+    }
+  },
+  "Categories": {
+    "Achievement": "Succès",
+    "Achievements": "Succès",
+    "Beetle Racing": "Courses de scaraboule",
+    "Builds": "Configurations",
+    "Convergences": "Convergences",
+    "Dead Content": "Ancien contenu",
+    "Dungeons": "Donjons",
+    "EoD Content": "Contenu End of Dragons",
+    "EoD Map Completion": "Exploration End of Dragons",
+    "Farming": "Récolte en boucle",
+    "Festivals": "Festivals",
+    "Fishing": "Pêche",
+    "Fractals": "Fractales",
+    "Gathering": "Récolte",
+    "General": "Général",
+    "Guide": "Guide",
+    "HP": "Points de héros",
+    "Halloween": "Halloween",
+    "Heart Zones": "Zones des cœurs",
+    "Hearts": "Cœurs",
+    "Hero Point Train": "Parcours de points de héros",
+    "Hero Points": "Points de héros",
+    "HoT Content": "Contenu Heart of Thorns",
+    "Jumping Puzzles": "Puzzles de saut",
+    "Lanterns": "Lanternes",
+    "Leveling": "Progression en niveaux",
+    "Map Completion": "Exploration de cartes",
+    "Mastery Insights": "Connaissances de maîtrise",
+    "Miscellaneous": "Divers",
+    "Open World Metas": "Méta-événements en monde ouvert",
+    "PSNA": "Agents du Pacte",
+    "PoF Content": "Contenu Path of Fire",
+    "Raids": "Raids",
+    "Script": "Script",
+    "Solo Farming": "Récolte en solo",
+    "Strike Missions": "Missions d’attaque",
+    "Tyria Pride Parade": "Marche des fiertés de Tyrie",
+    "World vs. World": "Monde contre Monde",
+    "Ziplines": "Tyroliennes"
+  }
+}
