@@ -229,5 +229,31 @@
     "Tyria Pride Parade": "Marche des fiertés de Tyrie",
     "World vs. World": "Monde contre Monde",
     "Ziplines": "Tyroliennes"
+  },
+  "Modules": {
+    "Snaid1.Blishpad": {
+      "Source": "A module for taking and keeping notes you want to quickly reference.\nNew in v1.1.x:\n- Double clicking a chat code copies it to clipboard\n- More font size options\n- Icon right click toggles Post-it by default\n- Better error reporting if notes files aren't accessible",
+      "French": "Prenez des notes et conservez-les pour les retrouver rapidement.\nNouveautés de la version 1.1.x :\n- Un double-clic sur un code de discussion le copie dans le presse-papiers.\n- Davantage de tailles de police.\n- Un clic droit sur l’icône affiche ou masque les notes Post-it par défaut.\n- Messages d’erreur améliorés lorsque les fichiers de notes sont inaccessibles."
+    },
+    "roguishpanda.AB_Bauble_Farm": {
+      "Source": "Can be used to create custom timers and event trackers for gold farms and/or meta events. \n\nAdditional features include: custom packages for timer/events, fast chat shorts for waypoints and notes, community packages, and the ability to copy/import your friend''s packages.",
+      "French": "Créez des minuteurs personnalisés et suivez des événements pour vos circuits de récolte d’or ou vos méta-événements.\n\nFonctions supplémentaires : packs de minuteurs et d’événements personnalisés, raccourcis de discussion pour les points de passage et les notes, packs communautaires, copie et importation des packs de vos amis."
+    },
+    "estreya.bh.eventTable": {
+      "Source": "Creates an event table which displays all timer based events.\nProvides high customizing abilities.\n\nAlso provides standalone notifications.\n\nLayout is inspired by TacO.",
+      "French": "Affiche un tableau des événements programmés, avec de nombreuses possibilités de personnalisation.\n\nPropose également des notifications indépendantes.\n\nPrésentation inspirée de TacO."
+    },
+    "bh.general.events": {
+      "Source": "Displays upcoming events and metas and gives you the option to subscribe to in-game notifications for when they're going to be starting soon.",
+      "French": "Affiche les prochains événements et méta-événements. Vous pouvez activer des notifications en jeu pour être averti peu avant leur début."
+    },
+    "pentose.itemsearch": {
+      "Source": "Searches for items across your account",
+      "French": "Recherchez des objets dans l’ensemble de votre compte."
+    },
+    "Manlaan.Mounts": {
+      "Source": "Mounts, mastery skills and novelty icons in radial, icon rows and corner icons. Settings need to be configured before using the module!",
+      "French": "Accédez à vos montures, compétences de maîtrise et objets de fantaisie depuis un menu radial, des rangées d’icônes ou des icônes de coin. Configurez les paramètres avant d’utiliser le module."
+    }
   }
 }
