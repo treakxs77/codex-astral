@@ -48,7 +48,7 @@ def main():
     reviewed=ROOT/'descriptifs-verifies.json'
     existing=json.loads(reviewed.read_text(encoding='utf-8-sig'))
     descriptions=existing.get('Descriptions',{})
-    for entry in descriptions.values():
+    for entry in [*descriptions.values(),*existing.get('Modules',{}).values()]:
         if entry.get('Source') and entry.get('French'):translator.memory[entry['Source']]=entry['French']
     translator.translate_many(list(dict.fromkeys([m.get('description','') for m in modules]+[m.get('Description','') for m in markers]+[m.get('Categories','') for m in markers])))
     originals=[(m.get('location'),m.get('hash'),m.get('namespace'),m.get('version')) for m in modules]
