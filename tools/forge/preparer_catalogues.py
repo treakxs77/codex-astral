@@ -15,6 +15,7 @@ class Translator:
         self.sp=sentencepiece.SentencePieceProcessor(model_file=str(model/'sentencepiece.model'))
         self.engine=ctranslate2.Translator(str(model/'model'),device='cpu',compute_type='int8',intra_threads=4)
         self.file=memory;self.memory=json.loads(memory.read_text(encoding='utf-8')) if memory.exists() else {}
+        self.memory={key:value.replace('▁',' ') for key,value in self.memory.items()}
     def translate_many(self,texts):
         segments=[]
         for text in texts:
@@ -27,7 +28,7 @@ class Translator:
             encoded=[self.sp.encode(s.strip(),out_type=str) for s in batch]
             results=self.engine.translate_batch(encoded,beam_size=3,max_input_length=0,max_decoding_length=768)
             for source,result in zip(batch,results):
-                target=self.sp.decode(result.hypotheses[0]).strip()
+                target=self.sp.decode(result.hypotheses[0]).replace('▁',' ').strip()
                 if not target:raise ValueError('Traduction vide')
                 self.memory[source]=(' ' if source.startswith(' ') else '')+target+(' ' if source.endswith(' ') else '')
             self.save();print(f'Traduction locale : {min(offset+12,len(segments))}/{len(segments)} segments',flush=True)
